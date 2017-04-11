@@ -2,12 +2,13 @@
 #include "demo_io.h"
 #include <smartvr.h>
 #include "incAndDef.h"
+#include <techdefs.h>
 
 #define MAX_TRIES 3     // maximum # of tries to recognize a command word
 
 void  CycleKnob(void);
 void  MenuRecognized(uchar class);
-void  CommRecognized(uchar class, int Mnum);
+void  CommRecognized(uchar class, uint Cnum);
 
 // global variables
 PARAMETERPASS results;
@@ -18,8 +19,8 @@ uchar knob = T2SI_DEFAULT_KNOB;  // acceptance knob setting for commands [0:4]
 
 // Define GPIO outputs for voice commands
 // from GPIO05 to GPIO14 inclusive (x = 1 ... 10)
-#define COMMAND_PIN(x) 	GPIO(x) //#define COMMAND_PIN(x) 	GPIO(4+(x))
-#define COMMAND_PIN_ALL	GPIO_SPAN(9,12)
+////#define COMMAND_PIN(x) 	GPIO(x) //#define COMMAND_PIN(x) 	GPIO(4+(x))
+////#define COMMAND_PIN_ALL	GPIO_SPAN(9,12)
 // Note: GPIO09 to GPIO12 are used for DevBoard LEDs
 // open jumper blocks JP10 to JP13 to disconnect these LEDs
 // and free the GPIO pins for external devices
@@ -39,7 +40,7 @@ void main(void)
     
 
     // Configure command GPIOs as outputs initially low
-    _SetOutput(COMMAND_PIN_ALL, 0xFFFF);
+    ////_SetOutput(COMMAND_PIN_ALL, 0xFFFF);
 
     // At reset, give a beep, initialize variables, then announce
     // saying Main Menu w/o any purpose.... need to delete it
@@ -56,7 +57,7 @@ void main(void)
 
     while (1)
     {
-		_WritePin(COMMAND_PIN_ALL,0xFFFF);
+		////_WritePin(COMMAND_PIN_ALL,0xFFFF);
 		Beep;
         _SetupCallout(CH_GPIO);
         error = _T2SI((long)&AC_MODEL_MAIN, (long)&GM_MODEL_TRG_MAIN, knob,
@@ -84,7 +85,7 @@ void main(void)
 			
         }
 
-        // Trigger recognized, beep and initialize command retry count
+        // Trigger recognized, SND_MainMenu and initialize tryCtr
         //Beep;
         tryCtr = MAX_TRIES;
 		_PlaySnd(SND_MainMenu, (long)sound_table, 256);
@@ -93,7 +94,7 @@ void main(void)
         {
             // recognize a command word with 3 second timeout------------------------------nope
             // NOTE: default timeout for a command grammar is 3------------------------------nope
-			Beep;
+			//Beep;
             _SetupCallout(CH_GPIO);
             error = _T2SI((long)&AC_MODEL_MAIN, (long)&GM_MODEL_MAIN, knob,
                           10, T2SI_DEFAULT_TRAILING, &results);
@@ -106,14 +107,14 @@ void main(void)
 
             if ((class == G_comm_MainOpt_nota) || (error == ERR_RECOG_LOW_CONF) || (error == ERR_RECOG_MID_CONF))
             {
-                //_RedOn();       // signal "not recognized"
+                
                 _PlaySnd(SND_PleaseRepeat, (long)sound_table, 256);
                 tryCtr--;       // count this try
                 continue;       // If any tries remain, resume command recognition
-            }                   // else program will go back to waiting for trigger
+            }                   
 
-            // on high or mid confidence, perform action for recognized command
-            if ((error == ERR_OK) )//|| (error == ERR_RECOG_MID_CONF
+            // on high confidence, perform action for recognized command
+            if ((error == ERR_OK))
             {
                 MenuRecognized(class);
                 break;          // go back to waiting for trigger
@@ -131,9 +132,8 @@ void main(void)
             // timeout exceeded, go back to waiting for trigger
             if ( error == ERR_DATACOL_TIMEOUT )
 			{
-                //_RedOn();       // signal "not recognized"
-               /* _PlaySnd(SND_pleaserepeat, (long)sound_table, 256);
-                tryCtr--;       // count this try*/
+                _PlaySnd(SND_PleaseRepeat, (long)sound_table, 256);
+                tryCtr--;       // count this try
                 continue;       // If any tries remain, resume command recognition
 			}
             // ignore other errors, such as ERR_DATACOL_TOO_SOFT,
@@ -146,36 +146,35 @@ void main(void)
 //------------------------------------------------------------------------------
 void MenuRecognized(uchar class)
 {
-	int Mnum;
-// Come here on HIGH /*or MID*/ confidence command recognition to
+	uint Cnum;
+// Come here on HIGH confidence command recognition to
 // perform action for the recognized command
 //
 // class has index of command recognized
 // The comm_rscApp_xxx.h file contains indices for command vocabulary words
-//
-// This shows typical results dispatching to perform command-specific actions
-// Here they are all lumped together to announce: "You said word X"
 
-    //_RedOff();                      // turn off any error signal
+
     switch (class)
     {
     case G_comm_MainOpt_MOTION_CONTROL:
-		_WritePin(COMMAND_PIN(9),0);
+		////_WritePin(COMMAND_PIN(9),0);
         _PlaySnd(SND_MotionCtrlMenu, (long)sound_table, 256);
 		error = _T2SI((long)&AC_MODEL_MOTN, (long)&GM_MODEL_MOTN, knob,
                           10, T2SI_DEFAULT_TRAILING, &results);
 		class = results.pp_b;
 		tryCtr = MAX_TRIES;
-		while(tryCtr--)
+		while(tryCtr--) // command recognition
 		{
 			if ((error == ERR_OK) )
 			{
-				Mnum = 1;
-				CommRecognized(class, Mnum);
+				Cnum = 1;
+				CommRecognized(class, Cnum);
 				break;
 			}
 			else	
 			{
+				if(tryCtr == 1)
+					continue;
 				_PlaySnd(SND_PleaseRepeat, (long)sound_table, 256);
 				error = _T2SI((long)&AC_MODEL_MOTN, (long)&GM_MODEL_MOTN, knob,
                           10, T2SI_DEFAULT_TRAILING, &results);
@@ -187,22 +186,24 @@ void MenuRecognized(uchar class)
         break;
 		
     case G_comm_MainOpt_GENERAL_COMMANDS:
-		_WritePin(COMMAND_PIN(10),0);
+		////_WritePin(COMMAND_PIN(10),0);
 		_PlaySnd(SND_GnrlCmdMn, (long)sound_table, 256);
 		error = _T2SI((long)&AC_MODEL_GNRL, (long)&GM_MODEL_GNRL, knob,
                           10, T2SI_DEFAULT_TRAILING, &results);
 		class = results.pp_b;
 		tryCtr = MAX_TRIES;
-		while(tryCtr--)
+		while(tryCtr--) // command recognition
 		{
 			if ((error == ERR_OK) )
 			{
-				Mnum = 2;
-				CommRecognized(class, Mnum);
+				Cnum = 2;
+				CommRecognized(class, Cnum);
 				break;
 			}
 			else	
 			{
+				if(tryCtr == 1)
+					continue;
 				_PlaySnd(SND_PleaseRepeat, (long)sound_table, 256);
 				error = _T2SI((long)&AC_MODEL_GNRL, (long)&GM_MODEL_GNRL, knob,
                           10, T2SI_DEFAULT_TRAILING, &results);
@@ -214,23 +215,25 @@ void MenuRecognized(uchar class)
 		
 		break;
 		
-    case G_comm_MainOpt_SMART_MOVES:
-		_WritePin(COMMAND_PIN(11),0);
+    case G_comm_MainOpt_INTELLIGENT_MOVES:
+		////_WritePin(COMMAND_PIN(11),0);
 		_PlaySnd(SND_SmrtMvsMenu, (long)sound_table, 256);
 		error = _T2SI((long)&AC_MODEL_SMRT, (long)&GM_MODEL_SMRT, knob,
                           10, T2SI_DEFAULT_TRAILING, &results);
 		class = results.pp_b;
 		tryCtr = MAX_TRIES;
-		while(tryCtr--)
+		while(tryCtr--) // command recognition
 		{
 			if ((error == ERR_OK) )
 			{
-				Mnum = 3;
-				CommRecognized(class, Mnum);
+				Cnum = 3;
+				CommRecognized(class, Cnum);
 				break;
 			}
 			else	
 			{
+				if(tryCtr == 1)
+					continue;
 				_PlaySnd(SND_PleaseRepeat, (long)sound_table, 256);
 				error = _T2SI((long)&AC_MODEL_SMRT, (long)&GM_MODEL_SMRT, knob,
                           10, T2SI_DEFAULT_TRAILING, &results);
@@ -243,22 +246,24 @@ void MenuRecognized(uchar class)
 		break;
 		
     case G_comm_MainOpt_SETTINGS:
-		_WritePin(COMMAND_PIN(12),0);
+		////_WritePin(COMMAND_PIN(12),0);
 		_PlaySnd(SND_SettingsMenu, (long)sound_table, 256);
 		error = _T2SI((long)&AC_MODEL_STNG, (long)&GM_MODEL_STNG, knob,
                           10, T2SI_DEFAULT_TRAILING, &results);
 		class = results.pp_b;
 		tryCtr = MAX_TRIES;
-		while(tryCtr--)
+		while(tryCtr--) // command recognition
 		{
 			if ((error == ERR_OK) )
 			{
-				Mnum = 4;
-				CommRecognized(class, Mnum);
+				Cnum = 4;
+				CommRecognized(class, Cnum);
 				break;
 			}
 			else	
 			{
+				if(tryCtr == 1)
+					continue;
 				_PlaySnd(SND_PleaseRepeat, (long)sound_table, 256);
 				error = _T2SI((long)&AC_MODEL_STNG, (long)&GM_MODEL_STNG, knob,
                           10, T2SI_DEFAULT_TRAILING, &results);
@@ -280,13 +285,35 @@ void MenuRecognized(uchar class)
 }
 
 
-void CommRecognized(uchar class, int Mnum)
+void CommRecognized(uchar class, uint Cnum)
 {
-	switch(Mnum)
+	// use the serial terminal
+	_Init232();
+	_SetBaudRate(BAUD9600);
+	
+	switch(Cnum)
 	{
 		case 1:
 			_PlaySnd(SND_yccn + class, (long)sound_table, 256);
 			_PlaySnd(SND_FromMotion, (long)sound_table, 256);
+			if(class == 1)
+			{
+				
+				
+				_Crlf232();
+				uint rx = SERIAL_TIMEDOUT;
+				// wait for some character while doing some processing
+				// (increment counter every 0.1 seconds and display it)
+					_SerialSend(SERIAL_RXTX_PIN, '\r');
+					//_Send232H16Val();
+					_SerialSend(SERIAL_RXTX_PIN, 'A');
+					// receive character with 100 milliseconds timeout
+					//rx = _SerialRecv(SERIAL_RXTX_PIN, TIMEOUT_MS(100) );
+					//++n;
+					
+				// echo received character
+				//_SerialSend(SERIAL_RXTX_PIN, rx);
+			}
 			break;
 		
 		case 2:

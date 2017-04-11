@@ -48,8 +48,6 @@ CH_ANYPIN	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr
 CH_DISABLE	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	104;"	kind:d	line:104
 CH_GPIO	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	101;"	kind:d	line:101
 CH_VBLINK	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	103;"	kind:d	line:103
-COMMAND_PIN	main.c	21;"	kind:d	line:21
-COMMAND_PIN_ALL	main.c	22;"	kind:d	line:22
 COUNT_MS	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	147;"	kind:d	line:147
 COUNT_SEC	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	146;"	kind:d	line:146
 CTRL_SYNC	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	76;"	kind:d	line:76
@@ -59,9 +57,10 @@ CT_SD	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	8
 CT_SDHC	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	86;"	kind:d	line:86
 CT_SDSC	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	85;"	kind:d	line:85
 CT_UNKNOWN	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	89;"	kind:d	line:89
-CommRecognized	main.c	10;"	kind:p	line:10	signature:(uchar class, int Mnum)
-CommRecognized	main.c	283;"	kind:f	line:283	signature:(uchar class, int Mnum)
-CycleKnob	main.c	311;"	kind:f	line:311	signature:(void)
+Cnum	main.c	148;"	kind:l	line:148
+CommRecognized	main.c	10;"	kind:p	line:10	signature:(uchar class, uint Cnum)
+CommRecognized	main.c	287;"	kind:f	line:287	signature:(uchar class, int Cnum)
+CycleKnob	main.c	319;"	kind:f	line:319	signature:(void)
 CycleKnob	main.c	8;"	kind:p	line:8	signature:(void)
 DEF_AND_INC	F:\Project\ProtoType\incAndDef.h	2;"	kind:d	line:2
 DEF_AND_INC	incAndDef.h	2;"	kind:d	line:2
@@ -162,26 +161,26 @@ G_comm_GeneralOpt_nota	F:\Project\ProtoType\recog\GeneralOpt\comm_rscApp_General
 G_comm_GeneralOpt_nota	recog\GeneralOpt\comm_rscApp_GeneralOpt.h	17;"	kind:d	line:17
 G_comm_MainOpt_GENERAL_COMMANDS	F:\Project\ProtoType\recog\MainOpt\comm_rscApp_MainOpt.h	14;"	kind:d	line:14
 G_comm_MainOpt_GENERAL_COMMANDS	recog\MainOpt\comm_rscApp_MainOpt.h	14;"	kind:d	line:14
+G_comm_MainOpt_INTELLIGENT_MOVES	F:\Project\ProtoType\recog\MainOpt\comm_rscApp_MainOpt.h	15;"	kind:d	line:15
+G_comm_MainOpt_INTELLIGENT_MOVES	recog\MainOpt\comm_rscApp_MainOpt.h	15;"	kind:d	line:15
 G_comm_MainOpt_MOTION_CONTROL	F:\Project\ProtoType\recog\MainOpt\comm_rscApp_MainOpt.h	13;"	kind:d	line:13
 G_comm_MainOpt_MOTION_CONTROL	recog\MainOpt\comm_rscApp_MainOpt.h	13;"	kind:d	line:13
 G_comm_MainOpt_SETTINGS	F:\Project\ProtoType\recog\MainOpt\comm_rscApp_MainOpt.h	16;"	kind:d	line:16
 G_comm_MainOpt_SETTINGS	recog\MainOpt\comm_rscApp_MainOpt.h	16;"	kind:d	line:16
 G_comm_MainOpt_SILENCE	F:\Project\ProtoType\recog\MainOpt\comm_rscApp_MainOpt.h	12;"	kind:d	line:12
 G_comm_MainOpt_SILENCE	recog\MainOpt\comm_rscApp_MainOpt.h	12;"	kind:d	line:12
-G_comm_MainOpt_SMART_MOVES	F:\Project\ProtoType\recog\MainOpt\comm_rscApp_MainOpt.h	15;"	kind:d	line:15
-G_comm_MainOpt_SMART_MOVES	recog\MainOpt\comm_rscApp_MainOpt.h	15;"	kind:d	line:15
 G_comm_MainOpt_nota	F:\Project\ProtoType\recog\MainOpt\comm_rscApp_MainOpt.h	17;"	kind:d	line:17
 G_comm_MainOpt_nota	recog\MainOpt\comm_rscApp_MainOpt.h	17;"	kind:d	line:17
-G_comm_MotionOpt_BACKWARD	F:\Project\ProtoType\recog\MotionOpt\comm_rscApp_MotionOpt.h	14;"	kind:d	line:14
-G_comm_MotionOpt_BACKWARD	recog\MotionOpt\comm_rscApp_MotionOpt.h	14;"	kind:d	line:14
-G_comm_MotionOpt_FORWARD	F:\Project\ProtoType\recog\MotionOpt\comm_rscApp_MotionOpt.h	13;"	kind:d	line:13
-G_comm_MotionOpt_FORWARD	recog\MotionOpt\comm_rscApp_MotionOpt.h	13;"	kind:d	line:13
-G_comm_MotionOpt_LEFT	F:\Project\ProtoType\recog\MotionOpt\comm_rscApp_MotionOpt.h	15;"	kind:d	line:15
-G_comm_MotionOpt_LEFT	recog\MotionOpt\comm_rscApp_MotionOpt.h	15;"	kind:d	line:15
-G_comm_MotionOpt_RIGHT	F:\Project\ProtoType\recog\MotionOpt\comm_rscApp_MotionOpt.h	16;"	kind:d	line:16
-G_comm_MotionOpt_RIGHT	recog\MotionOpt\comm_rscApp_MotionOpt.h	16;"	kind:d	line:16
+G_comm_MotionOpt_GO_BACKWARD	F:\Project\ProtoType\recog\MotionOpt\comm_rscApp_MotionOpt.h	14;"	kind:d	line:14
+G_comm_MotionOpt_GO_BACKWARD	recog\MotionOpt\comm_rscApp_MotionOpt.h	14;"	kind:d	line:14
+G_comm_MotionOpt_GO_FORWARD	F:\Project\ProtoType\recog\MotionOpt\comm_rscApp_MotionOpt.h	13;"	kind:d	line:13
+G_comm_MotionOpt_GO_FORWARD	recog\MotionOpt\comm_rscApp_MotionOpt.h	13;"	kind:d	line:13
 G_comm_MotionOpt_SILENCE	F:\Project\ProtoType\recog\MotionOpt\comm_rscApp_MotionOpt.h	12;"	kind:d	line:12
 G_comm_MotionOpt_SILENCE	recog\MotionOpt\comm_rscApp_MotionOpt.h	12;"	kind:d	line:12
+G_comm_MotionOpt_TURN_LEFT	F:\Project\ProtoType\recog\MotionOpt\comm_rscApp_MotionOpt.h	15;"	kind:d	line:15
+G_comm_MotionOpt_TURN_LEFT	recog\MotionOpt\comm_rscApp_MotionOpt.h	15;"	kind:d	line:15
+G_comm_MotionOpt_TURN_RIGHT	F:\Project\ProtoType\recog\MotionOpt\comm_rscApp_MotionOpt.h	16;"	kind:d	line:16
+G_comm_MotionOpt_TURN_RIGHT	recog\MotionOpt\comm_rscApp_MotionOpt.h	16;"	kind:d	line:16
 G_comm_MotionOpt_nota	F:\Project\ProtoType\recog\MotionOpt\comm_rscApp_MotionOpt.h	17;"	kind:d	line:17
 G_comm_MotionOpt_nota	recog\MotionOpt\comm_rscApp_MotionOpt.h	17;"	kind:d	line:17
 G_comm_SettingsOpt_DATE	F:\Project\ProtoType\recog\SettingsOpt\comm_rscApp_SettingsOpt.h	15;"	kind:d	line:15
@@ -206,8 +205,8 @@ G_comm_SmartOpt_THIRD	F:\Project\ProtoType\recog\SmartOpt\comm_rscApp_SmartOpt.h
 G_comm_SmartOpt_THIRD	recog\SmartOpt\comm_rscApp_SmartOpt.h	15;"	kind:d	line:15
 G_comm_SmartOpt_nota	F:\Project\ProtoType\recog\SmartOpt\comm_rscApp_SmartOpt.h	17;"	kind:d	line:17
 G_comm_SmartOpt_nota	recog\SmartOpt\comm_rscApp_SmartOpt.h	17;"	kind:d	line:17
-G_trig_MainOpt_MAIN	F:\Project\ProtoType\recog\MainOpt\trig_rscApp_MainOpt.h	13;"	kind:d	line:13
-G_trig_MainOpt_MAIN	recog\MainOpt\trig_rscApp_MainOpt.h	13;"	kind:d	line:13
+G_trig_MainOpt_ACTIVATE_VOICE_CONTROL	F:\Project\ProtoType\recog\MainOpt\trig_rscApp_MainOpt.h	13;"	kind:d	line:13
+G_trig_MainOpt_ACTIVATE_VOICE_CONTROL	recog\MainOpt\trig_rscApp_MainOpt.h	13;"	kind:d	line:13
 G_trig_MainOpt_SILENCE	F:\Project\ProtoType\recog\MainOpt\trig_rscApp_MainOpt.h	12;"	kind:d	line:12
 G_trig_MainOpt_SILENCE	recog\MainOpt\trig_rscApp_MainOpt.h	12;"	kind:d	line:12
 G_trig_MainOpt_nota	F:\Project\ProtoType\recog\MainOpt\trig_rscApp_MainOpt.h	14;"	kind:d	line:14
@@ -225,9 +224,8 @@ LED_YELLOW2	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\demo_
 MAX_TRIES	main.c	6;"	kind:d	line:6
 MESSAGING	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	124;"	kind:d	line:124
 MMC_GET_TYPE	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	80;"	kind:d	line:80
-MenuRecognized	main.c	147;"	kind:f	line:147	signature:(uchar class)
+MenuRecognized	main.c	146;"	kind:f	line:146	signature:(uchar class)
 MenuRecognized	main.c	9;"	kind:p	line:9	signature:(uchar class)
-Mnum	main.c	149;"	kind:l	line:149
 NEVER_TIMEOUT	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	35;"	kind:d	line:35
 NN_GENERALOPT	F:\Project\ProtoType\recog\GeneralOpt\comm_rscApp_GeneralOpt.h	8;"	kind:d	line:8
 NN_GENERALOPT	recog\GeneralOpt\comm_rscApp_GeneralOpt.h	8;"	kind:d	line:8
