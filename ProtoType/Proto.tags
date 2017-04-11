@@ -1,0 +1,657 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AC_MODEL_GNRL	F:\Project\ProtoType\incAndDef.h	13;"	kind:d	line:13
+AC_MODEL_GNRL	incAndDef.h	13;"	kind:d	line:13
+AC_MODEL_MAIN	F:\Project\ProtoType\incAndDef.h	12;"	kind:d	line:12
+AC_MODEL_MAIN	incAndDef.h	12;"	kind:d	line:12
+AC_MODEL_MOTN	F:\Project\ProtoType\incAndDef.h	14;"	kind:d	line:14
+AC_MODEL_MOTN	incAndDef.h	14;"	kind:d	line:14
+AC_MODEL_SMRT	F:\Project\ProtoType\incAndDef.h	16;"	kind:d	line:16
+AC_MODEL_SMRT	incAndDef.h	16;"	kind:d	line:16
+AC_MODEL_STNG	F:\Project\ProtoType\incAndDef.h	15;"	kind:d	line:15
+AC_MODEL_STNG	incAndDef.h	15;"	kind:d	line:15
+ARMS_LENGTH	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	151;"	kind:d	line:151
+AW_CLAPS_CONFIG	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	99;"	kind:d	line:99
+AW_LOUDSOUND_CONFIG	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	98;"	kind:d	line:98
+AW_WHISTLE_CONFIG	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	97;"	kind:d	line:97
+BAUD115200	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	147;"	kind:d	line:147
+BAUD14400	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	142;"	kind:d	line:142
+BAUD19200	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	143;"	kind:d	line:143
+BAUD2400	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	139;"	kind:d	line:139
+BAUD28800	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	144;"	kind:d	line:144
+BAUD38400	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	145;"	kind:d	line:145
+BAUD4800	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	140;"	kind:d	line:140
+BAUD57600	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	146;"	kind:d	line:146
+BAUD9600	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	141;"	kind:d	line:141
+BLINK_128X	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	109;"	kind:d	line:109
+BLINK_16X	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	106;"	kind:d	line:106
+BLINK_32X	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	107;"	kind:d	line:107
+BLINK_64X	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	108;"	kind:d	line:108
+BTN_A	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\demo_io.h	9;"	kind:d	line:9
+BTN_ALL	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\demo_io.h	13;"	kind:d	line:13
+BTN_B	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\demo_io.h	10;"	kind:d	line:10
+BTN_C	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\demo_io.h	11;"	kind:d	line:11
+BTN_D	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\demo_io.h	12;"	kind:d	line:12
+BTN_E	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\demo_io.h	15;"	kind:d	line:15
+Beep	main.c	31;"	kind:d	line:31
+ButtonAPressed	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	25;"	kind:d	line:25
+ButtonBPressed	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	26;"	kind:d	line:26
+ButtonCPressed	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	27;"	kind:d	line:27
+ButtonDPressed	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	28;"	kind:d	line:28
+ButtonEPressed	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	30;"	kind:d	line:30
+ButtonPressed	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	29;"	kind:d	line:29
+CH_ANYPIN	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	102;"	kind:d	line:102
+CH_DISABLE	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	104;"	kind:d	line:104
+CH_GPIO	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	101;"	kind:d	line:101
+CH_VBLINK	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	103;"	kind:d	line:103
+COMMAND_PIN	main.c	21;"	kind:d	line:21
+COMMAND_PIN_ALL	main.c	22;"	kind:d	line:22
+COUNT_MS	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	147;"	kind:d	line:147
+COUNT_SEC	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	146;"	kind:d	line:146
+CTRL_SYNC	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	76;"	kind:d	line:76
+CT_BLKADDR	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	87;"	kind:d	line:87
+CT_MMC	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	84;"	kind:d	line:84
+CT_SD	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	88;"	kind:d	line:88
+CT_SDHC	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	86;"	kind:d	line:86
+CT_SDSC	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	85;"	kind:d	line:85
+CT_UNKNOWN	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	89;"	kind:d	line:89
+CommRecognized	main.c	10;"	kind:p	line:10	signature:(uchar class, int Mnum)
+CommRecognized	main.c	283;"	kind:f	line:283	signature:(uchar class, int Mnum)
+CycleKnob	main.c	311;"	kind:f	line:311	signature:(void)
+CycleKnob	main.c	8;"	kind:p	line:8	signature:(void)
+DEF_AND_INC	F:\Project\ProtoType\incAndDef.h	2;"	kind:d	line:2
+DEF_AND_INC	incAndDef.h	2;"	kind:d	line:2
+DEF_MAXWORDS	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	61;"	kind:d	line:61
+DEF_SEPSIL	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	60;"	kind:d	line:60
+DEF_SIL_DUR	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	129;"	kind:d	line:129
+DEF_TONE_DUR	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	128;"	kind:d	line:128
+DFS_ReadSector	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	63;"	kind:d	line:63
+DFS_WriteSector	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	64;"	kind:d	line:64
+DRESULT	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	60;"	kind:t	line:60
+DSTATUS	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	54;"	kind:t	line:54
+ERR_DATACOL_BAD_SETUP	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	172;"	kind:d	line:172
+ERR_DATACOL_BAD_WEIGHTS	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	171;"	kind:d	line:171
+ERR_DATACOL_TIMEOUT	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	164;"	kind:d	line:164
+ERR_DATACOL_TOO_CHOPPY	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	170;"	kind:d	line:170
+ERR_DATACOL_TOO_LONG	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	165;"	kind:d	line:165
+ERR_DATACOL_TOO_LOUD	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	168;"	kind:d	line:168
+ERR_DATACOL_TOO_NOISY	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	166;"	kind:d	line:166
+ERR_DATACOL_TOO_SOFT	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	167;"	kind:d	line:167
+ERR_DATACOL_TOO_SOON	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	169;"	kind:d	line:169
+ERR_IDLE_FAILED	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	230;"	kind:d	line:230
+ERR_INTERNAL_T2SI_BAD_SETUP	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	227;"	kind:d	line:227
+ERR_INT_BLOCK	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	237;"	kind:d	line:237
+ERR_INT_CL	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	236;"	kind:d	line:236
+ERR_INT_RP	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	235;"	kind:d	line:235
+ERR_INT_SYNTH	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	234;"	kind:d	line:234
+ERR_INT_TTONE	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	233;"	kind:d	line:233
+ERR_NOT_OK	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	160;"	kind:d	line:160
+ERR_OK	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	159;"	kind:d	line:159
+ERR_RECOG_BAD_TEMPLATE	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	179;"	kind:d	line:179
+ERR_RECOG_BAD_WEIGHTS	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	180;"	kind:d	line:180
+ERR_RECOG_DURATION	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	182;"	kind:d	line:182
+ERR_RECOG_FAIL	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	176;"	kind:d	line:176
+ERR_RECOG_LOW_CONF	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	177;"	kind:d	line:177
+ERR_RECOG_MID_CONF	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	178;"	kind:d	line:178
+ERR_RECOG_SIMILAR	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	181;"	kind:d	line:181
+ERR_RECOG_SIMILAR_SI	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	183;"	kind:d	line:183
+ERR_RP_BAD_LEVEL	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	205;"	kind:d	line:205
+ERR_RP_BAD_MSG	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	214;"	kind:d	line:214
+ERR_RP_BAD_PTRS	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	210;"	kind:d	line:210
+ERR_RP_EM_IN_USE	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	211;"	kind:d	line:211
+ERR_RP_MEMORY_FULL	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	206;"	kind:d	line:206
+ERR_RP_MSG_EXISTS	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	213;"	kind:d	line:213
+ERR_RP_NO_MSG	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	212;"	kind:d	line:212
+ERR_RP_PATGEN_SILENCE	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	208;"	kind:d	line:208
+ERR_RP_TIME_EXPIRED	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	207;"	kind:d	line:207
+ERR_RP_XMEM_IN_USE	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	209;"	kind:d	line:209
+ERR_SW_STACK_OVERFLOW	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	226;"	kind:d	line:226
+ERR_SYNTH_BAD_MSG	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	222;"	kind:d	line:222
+ERR_SYNTH_BAD_SEN	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	221;"	kind:d	line:221
+ERR_SYNTH_BAD_VERSION	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	218;"	kind:d	line:218
+ERR_SYNTH_ID_NOT_SET	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	219;"	kind:d	line:219
+ERR_SYNTH_TOO_MANY_TABLES	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	220;"	kind:d	line:220
+ERR_T2SI_BAD_VERSION	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	188;"	kind:d	line:188
+ERR_T2SI_EXCESS_STATES	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	187;"	kind:d	line:187
+ERR_T2SI_NN_BAD_LAYERS	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	198;"	kind:d	line:198
+ERR_T2SI_NN_BAD_VERSION	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	196;"	kind:d	line:196
+ERR_T2SI_NN_NOT_READY	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	197;"	kind:d	line:197
+ERR_T2SI_NN_TOO_BIG	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	195;"	kind:d	line:195
+ERR_T2SI_NO_RT_LIPSYNC	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	193;"	kind:d	line:193
+ERR_T2SI_OUT_OF_RAM	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	189;"	kind:d	line:189
+ERR_T2SI_OVERFLOW	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	191;"	kind:d	line:191
+ERR_T2SI_PARAMETER	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	192;"	kind:d	line:192
+ERR_T2SI_TOO_SHORT	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	201;"	kind:d	line:201
+ERR_T2SI_TRIG_OOV	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	200;"	kind:d	line:200
+ERR_T2SI_UNEXPECTED	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	190;"	kind:d	line:190
+FAR_MIC	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	152;"	kind:d	line:152
+GET_BLOCK_SIZE	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	79;"	kind:d	line:79
+GET_SECTOR_COUNT	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	77;"	kind:d	line:77
+GET_SECTOR_SIZE	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	78;"	kind:d	line:78
+GM_MODEL_GNRL	F:\Project\ProtoType\incAndDef.h	22;"	kind:d	line:22
+GM_MODEL_GNRL	incAndDef.h	22;"	kind:d	line:22
+GM_MODEL_MAIN	F:\Project\ProtoType\incAndDef.h	21;"	kind:d	line:21
+GM_MODEL_MAIN	incAndDef.h	21;"	kind:d	line:21
+GM_MODEL_MOTN	F:\Project\ProtoType\incAndDef.h	23;"	kind:d	line:23
+GM_MODEL_MOTN	incAndDef.h	23;"	kind:d	line:23
+GM_MODEL_SMRT	F:\Project\ProtoType\incAndDef.h	25;"	kind:d	line:25
+GM_MODEL_SMRT	incAndDef.h	25;"	kind:d	line:25
+GM_MODEL_STNG	F:\Project\ProtoType\incAndDef.h	24;"	kind:d	line:24
+GM_MODEL_STNG	incAndDef.h	24;"	kind:d	line:24
+GM_MODEL_TRG_MAIN	F:\Project\ProtoType\incAndDef.h	18;"	kind:d	line:18
+GM_MODEL_TRG_MAIN	incAndDef.h	18;"	kind:d	line:18
+GPIO	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	16;"	kind:d	line:16
+GPIO_PIN	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	18;"	kind:d	line:18
+GPIO_PORT	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	17;"	kind:d	line:17
+GPIO_SPAN	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	19;"	kind:d	line:19
+G_comm_GeneralOpt_DANCE	F:\Project\ProtoType\recog\GeneralOpt\comm_rscApp_GeneralOpt.h	16;"	kind:d	line:16
+G_comm_GeneralOpt_DANCE	recog\GeneralOpt\comm_rscApp_GeneralOpt.h	16;"	kind:d	line:16
+G_comm_GeneralOpt_DAY	F:\Project\ProtoType\recog\GeneralOpt\comm_rscApp_GeneralOpt.h	14;"	kind:d	line:14
+G_comm_GeneralOpt_DAY	recog\GeneralOpt\comm_rscApp_GeneralOpt.h	14;"	kind:d	line:14
+G_comm_GeneralOpt_NAME	F:\Project\ProtoType\recog\GeneralOpt\comm_rscApp_GeneralOpt.h	15;"	kind:d	line:15
+G_comm_GeneralOpt_NAME	recog\GeneralOpt\comm_rscApp_GeneralOpt.h	15;"	kind:d	line:15
+G_comm_GeneralOpt_SILENCE	F:\Project\ProtoType\recog\GeneralOpt\comm_rscApp_GeneralOpt.h	12;"	kind:d	line:12
+G_comm_GeneralOpt_SILENCE	recog\GeneralOpt\comm_rscApp_GeneralOpt.h	12;"	kind:d	line:12
+G_comm_GeneralOpt_TIME	F:\Project\ProtoType\recog\GeneralOpt\comm_rscApp_GeneralOpt.h	13;"	kind:d	line:13
+G_comm_GeneralOpt_TIME	recog\GeneralOpt\comm_rscApp_GeneralOpt.h	13;"	kind:d	line:13
+G_comm_GeneralOpt_nota	F:\Project\ProtoType\recog\GeneralOpt\comm_rscApp_GeneralOpt.h	17;"	kind:d	line:17
+G_comm_GeneralOpt_nota	recog\GeneralOpt\comm_rscApp_GeneralOpt.h	17;"	kind:d	line:17
+G_comm_MainOpt_GENERAL_COMMANDS	F:\Project\ProtoType\recog\MainOpt\comm_rscApp_MainOpt.h	14;"	kind:d	line:14
+G_comm_MainOpt_GENERAL_COMMANDS	recog\MainOpt\comm_rscApp_MainOpt.h	14;"	kind:d	line:14
+G_comm_MainOpt_MOTION_CONTROL	F:\Project\ProtoType\recog\MainOpt\comm_rscApp_MainOpt.h	13;"	kind:d	line:13
+G_comm_MainOpt_MOTION_CONTROL	recog\MainOpt\comm_rscApp_MainOpt.h	13;"	kind:d	line:13
+G_comm_MainOpt_SETTINGS	F:\Project\ProtoType\recog\MainOpt\comm_rscApp_MainOpt.h	16;"	kind:d	line:16
+G_comm_MainOpt_SETTINGS	recog\MainOpt\comm_rscApp_MainOpt.h	16;"	kind:d	line:16
+G_comm_MainOpt_SILENCE	F:\Project\ProtoType\recog\MainOpt\comm_rscApp_MainOpt.h	12;"	kind:d	line:12
+G_comm_MainOpt_SILENCE	recog\MainOpt\comm_rscApp_MainOpt.h	12;"	kind:d	line:12
+G_comm_MainOpt_SMART_MOVES	F:\Project\ProtoType\recog\MainOpt\comm_rscApp_MainOpt.h	15;"	kind:d	line:15
+G_comm_MainOpt_SMART_MOVES	recog\MainOpt\comm_rscApp_MainOpt.h	15;"	kind:d	line:15
+G_comm_MainOpt_nota	F:\Project\ProtoType\recog\MainOpt\comm_rscApp_MainOpt.h	17;"	kind:d	line:17
+G_comm_MainOpt_nota	recog\MainOpt\comm_rscApp_MainOpt.h	17;"	kind:d	line:17
+G_comm_MotionOpt_BACKWARD	F:\Project\ProtoType\recog\MotionOpt\comm_rscApp_MotionOpt.h	14;"	kind:d	line:14
+G_comm_MotionOpt_BACKWARD	recog\MotionOpt\comm_rscApp_MotionOpt.h	14;"	kind:d	line:14
+G_comm_MotionOpt_FORWARD	F:\Project\ProtoType\recog\MotionOpt\comm_rscApp_MotionOpt.h	13;"	kind:d	line:13
+G_comm_MotionOpt_FORWARD	recog\MotionOpt\comm_rscApp_MotionOpt.h	13;"	kind:d	line:13
+G_comm_MotionOpt_LEFT	F:\Project\ProtoType\recog\MotionOpt\comm_rscApp_MotionOpt.h	15;"	kind:d	line:15
+G_comm_MotionOpt_LEFT	recog\MotionOpt\comm_rscApp_MotionOpt.h	15;"	kind:d	line:15
+G_comm_MotionOpt_RIGHT	F:\Project\ProtoType\recog\MotionOpt\comm_rscApp_MotionOpt.h	16;"	kind:d	line:16
+G_comm_MotionOpt_RIGHT	recog\MotionOpt\comm_rscApp_MotionOpt.h	16;"	kind:d	line:16
+G_comm_MotionOpt_SILENCE	F:\Project\ProtoType\recog\MotionOpt\comm_rscApp_MotionOpt.h	12;"	kind:d	line:12
+G_comm_MotionOpt_SILENCE	recog\MotionOpt\comm_rscApp_MotionOpt.h	12;"	kind:d	line:12
+G_comm_MotionOpt_nota	F:\Project\ProtoType\recog\MotionOpt\comm_rscApp_MotionOpt.h	17;"	kind:d	line:17
+G_comm_MotionOpt_nota	recog\MotionOpt\comm_rscApp_MotionOpt.h	17;"	kind:d	line:17
+G_comm_SettingsOpt_DATE	F:\Project\ProtoType\recog\SettingsOpt\comm_rscApp_SettingsOpt.h	15;"	kind:d	line:15
+G_comm_SettingsOpt_DATE	recog\SettingsOpt\comm_rscApp_SettingsOpt.h	15;"	kind:d	line:15
+G_comm_SettingsOpt_NAME	F:\Project\ProtoType\recog\SettingsOpt\comm_rscApp_SettingsOpt.h	13;"	kind:d	line:13
+G_comm_SettingsOpt_NAME	recog\SettingsOpt\comm_rscApp_SettingsOpt.h	13;"	kind:d	line:13
+G_comm_SettingsOpt_SILENCE	F:\Project\ProtoType\recog\SettingsOpt\comm_rscApp_SettingsOpt.h	12;"	kind:d	line:12
+G_comm_SettingsOpt_SILENCE	recog\SettingsOpt\comm_rscApp_SettingsOpt.h	12;"	kind:d	line:12
+G_comm_SettingsOpt_TIME	F:\Project\ProtoType\recog\SettingsOpt\comm_rscApp_SettingsOpt.h	14;"	kind:d	line:14
+G_comm_SettingsOpt_TIME	recog\SettingsOpt\comm_rscApp_SettingsOpt.h	14;"	kind:d	line:14
+G_comm_SettingsOpt_nota	F:\Project\ProtoType\recog\SettingsOpt\comm_rscApp_SettingsOpt.h	16;"	kind:d	line:16
+G_comm_SettingsOpt_nota	recog\SettingsOpt\comm_rscApp_SettingsOpt.h	16;"	kind:d	line:16
+G_comm_SmartOpt_FIRST	F:\Project\ProtoType\recog\SmartOpt\comm_rscApp_SmartOpt.h	13;"	kind:d	line:13
+G_comm_SmartOpt_FIRST	recog\SmartOpt\comm_rscApp_SmartOpt.h	13;"	kind:d	line:13
+G_comm_SmartOpt_FOURTH	F:\Project\ProtoType\recog\SmartOpt\comm_rscApp_SmartOpt.h	16;"	kind:d	line:16
+G_comm_SmartOpt_FOURTH	recog\SmartOpt\comm_rscApp_SmartOpt.h	16;"	kind:d	line:16
+G_comm_SmartOpt_SECOND	F:\Project\ProtoType\recog\SmartOpt\comm_rscApp_SmartOpt.h	14;"	kind:d	line:14
+G_comm_SmartOpt_SECOND	recog\SmartOpt\comm_rscApp_SmartOpt.h	14;"	kind:d	line:14
+G_comm_SmartOpt_SILENCE	F:\Project\ProtoType\recog\SmartOpt\comm_rscApp_SmartOpt.h	12;"	kind:d	line:12
+G_comm_SmartOpt_SILENCE	recog\SmartOpt\comm_rscApp_SmartOpt.h	12;"	kind:d	line:12
+G_comm_SmartOpt_THIRD	F:\Project\ProtoType\recog\SmartOpt\comm_rscApp_SmartOpt.h	15;"	kind:d	line:15
+G_comm_SmartOpt_THIRD	recog\SmartOpt\comm_rscApp_SmartOpt.h	15;"	kind:d	line:15
+G_comm_SmartOpt_nota	F:\Project\ProtoType\recog\SmartOpt\comm_rscApp_SmartOpt.h	17;"	kind:d	line:17
+G_comm_SmartOpt_nota	recog\SmartOpt\comm_rscApp_SmartOpt.h	17;"	kind:d	line:17
+G_trig_MainOpt_MAIN	F:\Project\ProtoType\recog\MainOpt\trig_rscApp_MainOpt.h	13;"	kind:d	line:13
+G_trig_MainOpt_MAIN	recog\MainOpt\trig_rscApp_MainOpt.h	13;"	kind:d	line:13
+G_trig_MainOpt_SILENCE	F:\Project\ProtoType\recog\MainOpt\trig_rscApp_MainOpt.h	12;"	kind:d	line:12
+G_trig_MainOpt_SILENCE	recog\MainOpt\trig_rscApp_MainOpt.h	12;"	kind:d	line:12
+G_trig_MainOpt_nota	F:\Project\ProtoType\recog\MainOpt\trig_rscApp_MainOpt.h	14;"	kind:d	line:14
+G_trig_MainOpt_nota	recog\MainOpt\trig_rscApp_MainOpt.h	14;"	kind:d	line:14
+HEADSET	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	150;"	kind:d	line:150
+IDLE_WAKE_AUDIO	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	112;"	kind:d	line:112
+IDLE_WAKE_CLAPPER	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	113;"	kind:d	line:113
+IDLE_WAKE_IO	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	114;"	kind:d	line:114
+IDLE_WAKE_T2	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	115;"	kind:d	line:115
+LED_ALL	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\demo_io.h	29;"	kind:d	line:29
+LED_GREEN	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\demo_io.h	25;"	kind:d	line:25
+LED_RED	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\demo_io.h	28;"	kind:d	line:28
+LED_YELLOW	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\demo_io.h	26;"	kind:d	line:26
+LED_YELLOW2	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\demo_io.h	27;"	kind:d	line:27
+MAX_TRIES	main.c	6;"	kind:d	line:6
+MESSAGING	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	124;"	kind:d	line:124
+MMC_GET_TYPE	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	80;"	kind:d	line:80
+MenuRecognized	main.c	147;"	kind:f	line:147	signature:(uchar class)
+MenuRecognized	main.c	9;"	kind:p	line:9	signature:(uchar class)
+Mnum	main.c	149;"	kind:l	line:149
+NEVER_TIMEOUT	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	35;"	kind:d	line:35
+NN_GENERALOPT	F:\Project\ProtoType\recog\GeneralOpt\comm_rscApp_GeneralOpt.h	8;"	kind:d	line:8
+NN_GENERALOPT	recog\GeneralOpt\comm_rscApp_GeneralOpt.h	8;"	kind:d	line:8
+NN_MAINOPT	F:\Project\ProtoType\recog\MainOpt\comm_rscApp_MainOpt.h	8;"	kind:d	line:8
+NN_MAINOPT	F:\Project\ProtoType\recog\MainOpt\trig_rscApp_MainOpt.h	8;"	kind:d	line:8
+NN_MAINOPT	recog\MainOpt\comm_rscApp_MainOpt.h	8;"	kind:d	line:8
+NN_MAINOPT	recog\MainOpt\trig_rscApp_MainOpt.h	8;"	kind:d	line:8
+NN_MOTIONOPT	F:\Project\ProtoType\recog\MotionOpt\comm_rscApp_MotionOpt.h	8;"	kind:d	line:8
+NN_MOTIONOPT	recog\MotionOpt\comm_rscApp_MotionOpt.h	8;"	kind:d	line:8
+NN_SETTINGSOPT	F:\Project\ProtoType\recog\SettingsOpt\comm_rscApp_SettingsOpt.h	8;"	kind:d	line:8
+NN_SETTINGSOPT	recog\SettingsOpt\comm_rscApp_SettingsOpt.h	8;"	kind:d	line:8
+NN_SMARTOPT	F:\Project\ProtoType\recog\SmartOpt\comm_rscApp_SmartOpt.h	8;"	kind:d	line:8
+NN_SMARTOPT	recog\SmartOpt\comm_rscApp_SmartOpt.h	8;"	kind:d	line:8
+NULL	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\stddef.h	9;"	kind:d	line:9
+NUM_TEMPLATES	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	6;"	kind:d	line:6
+ONCHIP	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	121;"	kind:d	line:121
+PARAMETERPASS	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	27;"	kind:t	line:27	typeref:struct:_PARAMETERPASS
+PLAY_FAST	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	52;"	kind:d	line:52
+PLAY_NORMAL	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	51;"	kind:d	line:51
+RECORDING	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	123;"	kind:d	line:123
+REC_4_BIT	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	47;"	kind:d	line:47
+REC_8_BIT	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	48;"	kind:d	line:48
+REC_DETECT_POPS	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	43;"	kind:d	line:43
+REC_HALF_SECS	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	44;"	kind:d	line:44
+REC_NO_THRESH	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	38;"	kind:d	line:38
+REC_THRESH	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	39;"	kind:d	line:39
+REC_TRIM	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	40;"	kind:d	line:40
+REC_TRIM_FINAL	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	42;"	kind:d	line:42
+REC_TRIM_INIT	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	41;"	kind:d	line:41
+REFRESH	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	125;"	kind:d	line:125
+RES_ERROR	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	63;"	kind:d	line:63
+RES_NOTRDY	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	65;"	kind:d	line:65
+RES_OK	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	62;"	kind:d	line:62
+RES_PARERR	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	66;"	kind:d	line:66
+RES_WRPRT	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	64;"	kind:d	line:64
+RP_MAX_VOL_ATTEN	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	56;"	kind:d	line:56
+RP_MIN_VOL_ATTEN	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	55;"	kind:d	line:55
+SD_DEF_LEVEL	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	65;"	kind:d	line:65
+SD_MAX_LEVEL	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	66;"	kind:d	line:66
+SD_MIN_LEVEL	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	64;"	kind:d	line:64
+SERIAL_RXTX_PIN	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	139;"	kind:d	line:139
+SERIAL_TIMEDOUT	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	138;"	kind:d	line:138
+SETUP_TIMEOUT	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	34;"	kind:d	line:34
+SNDTBL_SOUNDS	F:\Project\ProtoType\Qs5\SOUNDS.h	3;"	kind:x	line:3
+SNDTBL_SOUNDS	Qs5\SOUNDS.H	3;"	kind:x	line:3
+SND_Four	F:\Project\ProtoType\Qs5\SOUNDS.h	22;"	kind:d	line:22
+SND_Four	Qs5\SOUNDS.H	22;"	kind:d	line:22
+SND_From	F:\Project\ProtoType\Qs5\SOUNDS.h	32;"	kind:d	line:32
+SND_From	Qs5\SOUNDS.H	32;"	kind:d	line:32
+SND_FromGeneral	F:\Project\ProtoType\Qs5\SOUNDS.h	39;"	kind:d	line:39
+SND_FromGeneral	Qs5\SOUNDS.H	39;"	kind:d	line:39
+SND_FromMotion	F:\Project\ProtoType\Qs5\SOUNDS.h	38;"	kind:d	line:38
+SND_FromMotion	Qs5\SOUNDS.H	38;"	kind:d	line:38
+SND_FromSettings	F:\Project\ProtoType\Qs5\SOUNDS.h	40;"	kind:d	line:40
+SND_FromSettings	Qs5\SOUNDS.H	40;"	kind:d	line:40
+SND_FromSmart	F:\Project\ProtoType\Qs5\SOUNDS.h	41;"	kind:d	line:41
+SND_FromSmart	Qs5\SOUNDS.H	41;"	kind:d	line:41
+SND_GnrlCmdMn	F:\Project\ProtoType\Qs5\SOUNDS.h	28;"	kind:d	line:28
+SND_GnrlCmdMn	Qs5\SOUNDS.H	28;"	kind:d	line:28
+SND_MainMenu	F:\Project\ProtoType\Qs5\SOUNDS.h	23;"	kind:d	line:23
+SND_MainMenu	Qs5\SOUNDS.H	23;"	kind:d	line:23
+SND_MotionCtrlMenu	F:\Project\ProtoType\Qs5\SOUNDS.h	29;"	kind:d	line:29
+SND_MotionCtrlMenu	Qs5\SOUNDS.H	29;"	kind:d	line:29
+SND_One	F:\Project\ProtoType\Qs5\SOUNDS.h	24;"	kind:d	line:24
+SND_One	Qs5\SOUNDS.H	24;"	kind:d	line:24
+SND_PleaseRepeat	F:\Project\ProtoType\Qs5\SOUNDS.h	25;"	kind:d	line:25
+SND_PleaseRepeat	Qs5\SOUNDS.H	25;"	kind:d	line:25
+SND_SettingsMenu	F:\Project\ProtoType\Qs5\SOUNDS.h	30;"	kind:d	line:30
+SND_SettingsMenu	Qs5\SOUNDS.H	30;"	kind:d	line:30
+SND_SmrtMvsMenu	F:\Project\ProtoType\Qs5\SOUNDS.h	31;"	kind:d	line:31
+SND_SmrtMvsMenu	Qs5\SOUNDS.H	31;"	kind:d	line:31
+SND_Three	F:\Project\ProtoType\Qs5\SOUNDS.h	26;"	kind:d	line:26
+SND_Three	Qs5\SOUNDS.H	26;"	kind:d	line:26
+SND_Two	F:\Project\ProtoType\Qs5\SOUNDS.h	27;"	kind:d	line:27
+SND_Two	Qs5\SOUNDS.H	27;"	kind:d	line:27
+SND_yccd3	F:\Project\ProtoType\Qs5\SOUNDS.h	36;"	kind:d	line:36
+SND_yccd3	Qs5\SOUNDS.H	36;"	kind:d	line:36
+SND_yccd4	F:\Project\ProtoType\Qs5\SOUNDS.h	37;"	kind:d	line:37
+SND_yccd4	Qs5\SOUNDS.H	37;"	kind:d	line:37
+SND_yccn	F:\Project\ProtoType\Qs5\SOUNDS.h	33;"	kind:d	line:33
+SND_yccn	Qs5\SOUNDS.H	33;"	kind:d	line:33
+SND_yccn1	F:\Project\ProtoType\Qs5\SOUNDS.h	34;"	kind:d	line:34
+SND_yccn1	Qs5\SOUNDS.H	34;"	kind:d	line:34
+SND_yccn2	F:\Project\ProtoType\Qs5\SOUNDS.h	35;"	kind:d	line:35
+SND_yccn2	Qs5\SOUNDS.H	35;"	kind:d	line:35
+SPI_CS1	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	39;"	kind:d	line:39
+SPI_CS2	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	40;"	kind:d	line:40
+SPI_CS3	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	41;"	kind:d	line:41
+SPI_CS4	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	42;"	kind:d	line:42
+SPI_CS5	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	43;"	kind:d	line:43
+SPI_EXT_HW	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	36;"	kind:d	line:36
+SPI_NOSEL	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	44;"	kind:d	line:44
+STA_NODISK	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	57;"	kind:d	line:57
+STA_NOINIT	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	56;"	kind:d	line:56
+STA_PROTECT	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	58;"	kind:d	line:58
+SV_DEF_LEVEL	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	70;"	kind:d	line:70
+SV_MAX_LEVEL	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	71;"	kind:d	line:71
+SV_MIN_LEVEL	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	69;"	kind:d	line:69
+SX_FULL_VOL	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	118;"	kind:d	line:118
+SX_Four	F:\Project\ProtoType\Qs5\SOUNDS.h	7;"	kind:x	line:7
+SX_Four	Qs5\SOUNDS.H	7;"	kind:x	line:7
+SX_From	F:\Project\ProtoType\Qs5\SOUNDS.h	17;"	kind:x	line:17
+SX_From	Qs5\SOUNDS.H	17;"	kind:x	line:17
+SX_GnrlCmdMn	F:\Project\ProtoType\Qs5\SOUNDS.h	13;"	kind:x	line:13
+SX_GnrlCmdMn	Qs5\SOUNDS.H	13;"	kind:x	line:13
+SX_MainMenu	F:\Project\ProtoType\Qs5\SOUNDS.h	8;"	kind:x	line:8
+SX_MainMenu	Qs5\SOUNDS.H	8;"	kind:x	line:8
+SX_MotionCtrlMenu	F:\Project\ProtoType\Qs5\SOUNDS.h	14;"	kind:x	line:14
+SX_MotionCtrlMenu	Qs5\SOUNDS.H	14;"	kind:x	line:14
+SX_One	F:\Project\ProtoType\Qs5\SOUNDS.h	9;"	kind:x	line:9
+SX_One	Qs5\SOUNDS.H	9;"	kind:x	line:9
+SX_PleaseRepeat	F:\Project\ProtoType\Qs5\SOUNDS.h	10;"	kind:x	line:10
+SX_PleaseRepeat	Qs5\SOUNDS.H	10;"	kind:x	line:10
+SX_SettingsMenu	F:\Project\ProtoType\Qs5\SOUNDS.h	15;"	kind:x	line:15
+SX_SettingsMenu	Qs5\SOUNDS.H	15;"	kind:x	line:15
+SX_SmrtMvsMenu	F:\Project\ProtoType\Qs5\SOUNDS.h	16;"	kind:x	line:16
+SX_SmrtMvsMenu	Qs5\SOUNDS.H	16;"	kind:x	line:16
+SX_Three	F:\Project\ProtoType\Qs5\SOUNDS.h	11;"	kind:x	line:11
+SX_Three	Qs5\SOUNDS.H	11;"	kind:x	line:11
+SX_Two	F:\Project\ProtoType\Qs5\SOUNDS.h	12;"	kind:x	line:12
+SX_Two	Qs5\SOUNDS.H	12;"	kind:x	line:12
+SX_yccn	F:\Project\ProtoType\Qs5\SOUNDS.h	18;"	kind:x	line:18
+SX_yccn	Qs5\SOUNDS.H	18;"	kind:x	line:18
+T2SI_DEFAULT_KNOB	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	80;"	kind:d	line:80
+T2SI_DEFAULT_TIMEOUT	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	82;"	kind:d	line:82
+T2SI_DEFAULT_TRAILING	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	84;"	kind:d	line:84
+T2SI_DEFAULT_TRAILING_T2SISD	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	85;"	kind:d	line:85
+T2SI_MAX_KNOB	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	81;"	kind:d	line:81
+T2SI_MAX_TRAILING	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	86;"	kind:d	line:86
+T2SI_MIN_KNOB	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	79;"	kind:d	line:79
+T2SI_MIN_TRAILING	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	83;"	kind:d	line:83
+T2SI_RECOGNIZED_SD	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	87;"	kind:d	line:87
+TEMPLATES	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	5;"	kind:d	line:5
+THRESH_CLAPS_HIGH	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	108;"	kind:d	line:108
+THRESH_CLAPS_LOW	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	107;"	kind:d	line:107
+THRESH_LOUDSOUND_HIGH	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	106;"	kind:d	line:106
+THRESH_LOUDSOUND_LOW	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	105;"	kind:d	line:105
+THRESH_WHISTLE_HIGH	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	104;"	kind:d	line:104
+THRESH_WHISTLE_LOW	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	103;"	kind:d	line:103
+TIMEOUT_INFINITE	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	136;"	kind:d	line:136
+TIMEOUT_MS	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	120;"	kind:d	line:120
+TRAIN_DEF_DELTA	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	59;"	kind:d	line:59
+TT_A	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	133;"	kind:d	line:133
+TT_B	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	134;"	kind:d	line:134
+TT_C	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	135;"	kind:d	line:135
+TT_D	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	136;"	kind:d	line:136
+TT_DIALTONE	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	130;"	kind:d	line:130
+TT_POUND	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	131;"	kind:d	line:131
+TT_STAR	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	132;"	kind:d	line:132
+VOLATILE	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	122;"	kind:d	line:122
+WAKEUP_MS	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	148;"	kind:d	line:148
+WAKE_2CLAPS	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	92;"	kind:d	line:92
+WAKE_3CLAPS	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	93;"	kind:d	line:93
+WAKE_BTN	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\demo_io.h	18;"	kind:d	line:18
+WAKE_LOUDSOUND	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	91;"	kind:d	line:91
+WAKE_MASK	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\demo_io.h	19;"	kind:d	line:19
+WAKE_PORT	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\demo_io.h	17;"	kind:d	line:17
+WAKE_WHISTLE	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	90;"	kind:d	line:90
+WS_DEF_LEVEL	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	75;"	kind:d	line:75
+WS_MAX_LEVEL	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	76;"	kind:d	line:76
+WS_MIN_LEVEL	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	74;"	kind:d	line:74
+WakeButtonPressed	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	31;"	kind:d	line:31
+_AfeOff	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	75;"	kind:p	line:75	signature:(void)
+_AfeOn	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	74;"	kind:p	line:74	signature:(void)
+_AvgTmplts	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	48;"	kind:p	line:48	signature:(uchar wt)
+_CardDetect	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	52;"	kind:p	line:52	signature:(void)
+_ColLedsOff	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	34;"	kind:d	line:34
+_ColLedsOn	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	33;"	kind:d	line:33
+_CopyMsg	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	27;"	kind:p	line:27	signature:(uchar msgnumS, uchar msgnumD)
+_Crlf232	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	32;"	kind:p	line:32	signature:(void)
+_DISKIO	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	53;"	kind:d	line:53
+_DacOff	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	77;"	kind:p	line:77	signature:(void)
+_DacOn	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	76;"	kind:p	line:76	signature:(void)
+_DacRampDown	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	103;"	kind:p	line:103	signature:(void)
+_DacRampUp	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	104;"	kind:p	line:104	signature:(void)
+_DebugOff	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	83;"	kind:p	line:83	signature:(void)
+_DebugOn	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	82;"	kind:p	line:82	signature:(void)
+_DelayMilliSecs	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	86;"	kind:p	line:86	signature:(uchar msecs)
+_DelaySecs	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	87;"	kind:p	line:87	signature:(uchar secs)
+_DeviceEraseAll	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	8;"	kind:d	line:8
+_DeviceGetInfo	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	9;"	kind:d	line:9
+_DeviceGetPages	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	10;"	kind:d	line:10
+_DeviceGetSize	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	11;"	kind:d	line:11
+_DeviceInitialize	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	12;"	kind:d	line:12
+_DeviceReadByte	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	13;"	kind:d	line:13
+_DeviceReadNextByte	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	14;"	kind:d	line:14
+_DeviceReady	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	15;"	kind:d	line:15
+_DeviceRefreshPage	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	16;"	kind:d	line:16
+_DeviceWriteByte	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	17;"	kind:d	line:17
+_DeviceWriteNextByte	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	18;"	kind:d	line:18
+_DiagCrlf	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	14;"	kind:p	line:14	signature:(void)
+_DiagD16	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	19;"	kind:p	line:19	signature:(uint val)
+_DiagD8	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	18;"	kind:p	line:18	signature:(uchar val)
+_DiagH16Val	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	17;"	kind:p	line:17	signature:(uint val)
+_DiagH4	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	15;"	kind:p	line:15	signature:(uchar val)
+_DiagH8	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	16;"	kind:p	line:16	signature:(uchar val)
+_DiagOff	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	81;"	kind:p	line:81	signature:(void)
+_DiagOn	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	80;"	kind:p	line:80	signature:(void)
+_EraseMsg	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	28;"	kind:p	line:28	signature:(uchar msgnum)
+_Get232H16	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	38;"	kind:p	line:38	signature:(PARAMETERPASS *pRes)
+_GetAGC	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	21;"	kind:p	line:21	signature:(void)
+_GetAvailableClusters	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	29;"	kind:p	line:29	signature:(void)
+_GetBaudRate	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	90;"	kind:p	line:90	signature:(void)
+_GetDataFlashTemplates	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	158;"	kind:p	line:158	signature:(void)
+_GetDataFlashTmpltListBase	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	159;"	kind:p	line:159	signature:(void)
+_GetDataFlashUserPages	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	157;"	kind:p	line:157	signature:(void)
+_GetGlobalTimer	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	150;"	kind:p	line:150	signature:(void)
+_GetHmmDuration	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	110;"	kind:p	line:110	signature:(void)
+_GetHmmMaxPwr	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	109;"	kind:p	line:109	signature:(void)
+_GetHmmSilLev	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	111;"	kind:p	line:111	signature:(void)
+_GetInput	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	23;"	kind:p	line:23	signature:(uint mask)
+_GetInputStrong	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	22;"	kind:p	line:22	signature:(uint mask)
+_GetInputWeak	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	21;"	kind:p	line:21	signature:(uint mask)
+_GetMaxPwr	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	22;"	kind:p	line:22	signature:(void)
+_GetNDur	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	23;"	kind:p	line:23	signature:(void)
+_GetPatgenResult	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	20;"	kind:p	line:20	signature:(void)
+_GetRPBitRate	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	93;"	kind:p	line:93	signature:(void)
+_GetSilLev	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	24;"	kind:p	line:24	signature:(void)
+_GetTmplt	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	46;"	kind:p	line:46	signature:(uchar tmpltnum)
+_GetTmpltAddrSdv	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	49;"	kind:p	line:49	signature:(uchar tmpltnum)
+_GetTmpltListBase	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	53;"	kind:p	line:53	signature:(void)
+_GetUnknownTmplt	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	47;"	kind:p	line:47	signature:(uchar tmpltnum)
+_GoIdle	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	100;"	kind:p	line:100	signature:(uchar wakeFlags)
+_GoSleep	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	21;"	kind:d	line:21
+_GreenOff	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	36;"	kind:d	line:36
+_GreenOn	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	35;"	kind:d	line:35
+_GreenToggle	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	45;"	kind:d	line:45
+_HighPin	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	30;"	kind:p	line:30	signature:(uint mask)
+_I2CRead	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	97;"	kind:p	line:97	signature:(uchar last)
+_I2CStart	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	94;"	kind:p	line:94	signature:(void)
+_I2CStop	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	95;"	kind:p	line:95	signature:(void)
+_I2CWrite	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	96;"	kind:p	line:96	signature:(uchar data)
+_Idle232	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	33;"	kind:p	line:33	signature:(void)
+_Init232	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	34;"	kind:p	line:34	signature:(void)
+_InitCollection	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	10;"	kind:p	line:10	signature:(void)
+_InitDirectory	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	30;"	kind:p	line:30	signature:(void)
+_InvalidateTmplt	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	51;"	kind:p	line:51	signature:(uchar tmpltnum)
+_IsValidTmplt	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	50;"	kind:p	line:50	signature:(uchar tmpltnum)
+_Karaoke	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	97;"	kind:p	line:97	signature:(uchar secs)
+_LowPin	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	31;"	kind:p	line:31	signature:(uint mask)
+_MakeTmpltSd	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	54;"	kind:p	line:54	signature:(uchar timeout, uchar sepSil, uchar maxWords)
+_MakeTmpltSdWithMsg	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	55;"	kind:p	line:55	signature:(uchar timeout, uchar sepSil, uchar maxWords, uchar msg)
+_MakeTmpltSv	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	61;"	kind:p	line:61	signature:(uchar timeout, uchar sepSil, uchar maxWords)
+_MakeTmpltSvWithMsg	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	62;"	kind:p	line:62	signature:(uchar timeout, uchar sepSil, uchar maxWords, uchar msg)
+_MakeTmpltT2SISD	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	107;"	kind:p	line:107	signature:(long, long, uchar, uchar, uchar, PARAMETERPASS *pRes)
+_MakeTmpltWs	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	113;"	kind:p	line:113	signature:(uchar timeout, uchar sepSil, uchar maxWords)
+_MakeTmpltWsWithMsg	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	114;"	kind:p	line:114	signature:(uchar timeout, uchar sepSil, uchar maxWords, uchar msg)
+_MmcInitialize	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	68;"	kind:p	line:68	signature:(uchar drive)
+_MmcIoctl	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	72;"	kind:p	line:72	signature:(uchar drive, uchar command, void* param)
+_MmcRead	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	70;"	kind:p	line:70	signature:(uchar drive, uchar* buffer, ulong sector, uchar count)
+_MmcStatus	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	69;"	kind:p	line:69	signature:(uchar drive)
+_MmcWrite	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	71;"	kind:p	line:71	signature:(uchar drive, const uchar* buffer, ulong sector, uchar count)
+_MsgExists	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	31;"	kind:p	line:31	signature:(uchar msgnum)
+_PARAMETERPASS	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	17;"	kind:s	line:17
+_PlayMsg	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	26;"	kind:p	line:26	signature:(uchar msgnum, uchar mode, uchar atten)
+_PlaySnd	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	68;"	kind:p	line:68	signature:(uint index, long speechTable, uint scale)
+_Put232	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	35;"	kind:p	line:35	signature:(uchar val)
+_PutDiag	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	11;"	kind:p	line:11	signature:(uchar val)
+_PutDiag232	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	12;"	kind:p	line:12	signature:(uchar val)
+_PutKnownTmplt	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	45;"	kind:p	line:45	signature:(uchar tmpltnum)
+_PutTmplt	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	44;"	kind:p	line:44	signature:(uchar tmpltnum)
+_PutTmpltListBase	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	52;"	kind:p	line:52	signature:(long addr)
+_PwmOff	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	79;"	kind:p	line:79	signature:(void)
+_PwmOn	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	78;"	kind:p	line:78	signature:(void)
+_READONLY	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	54;"	kind:d	line:54
+_ReadPin	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	29;"	kind:p	line:29	signature:(uint mask)
+_RecogSd	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	57;"	kind:p	line:57	signature:(uchar classes, uchar knob, uchar timeout, uchar sepSil, uchar maxWords, PARAMETERPASS *pRes)
+_RecogSdCl	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	60;"	kind:p	line:60	signature:(uchar sequence, uchar class, uchar classes, uchar knob, uchar timeout, PARAMETERPASS* pRes)
+_RecogSdF	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	59;"	kind:p	line:59	signature:(uchar classes, uchar knob, uchar timeout, PARAMETERPASS* pRes)
+_RecogSdWithMsg	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	58;"	kind:p	line:58	signature:(uchar classes, uchar knob, uchar timeout, uchar sepSil, uchar maxWords, uchar msg, PARAMETERPASS *pRes)
+_RecogSdWs	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	115;"	kind:p	line:115	signature:(uchar classes, uchar knob, uchar timeout, PARAMETERPASS* pRes)
+_RecogSv	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	64;"	kind:p	line:64	signature:(uchar classes, uchar knob, uchar size, uchar element, uchar timeout, uchar sepSil, uchar maxWords, PARAMETERPASS *pRes)
+_RecogSvF	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	66;"	kind:p	line:66	signature:(uchar classes, uchar knob, uchar size, uchar element, uchar timeout, PARAMETERPASS* pRes)
+_RecogSvWithMsg	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	65;"	kind:p	line:65	signature:(uchar classes, uchar knob, uchar size, uchar element, uchar timeout, uchar sepSil, uchar maxWords, uchar msg, PARAMETERPASS *pRes)
+_RecogSvWs	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	116;"	kind:p	line:116	signature:(uchar classes, uchar knob, uchar timeout, PARAMETERPASS* pRes)
+_RecordMsg	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	25;"	kind:p	line:25	signature:(uchar msgnum, uchar maxtime, uchar mode)
+_RedOff	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	42;"	kind:d	line:42
+_RedOn	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	41;"	kind:d	line:41
+_RedToggle	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	48;"	kind:d	line:48
+_SeepDisable	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	153;"	kind:p	line:153	signature:(void)
+_SeepEnable	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	154;"	kind:p	line:154	signature:(void)
+_SeepEraseAll	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	155;"	kind:p	line:155	signature:(void)
+_SeepGetInfo	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	156;"	kind:p	line:156	signature:(void)
+_SeepGetPages	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	158;"	kind:p	line:158	signature:(void)
+_SeepGetSize	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	157;"	kind:p	line:157	signature:(void)
+_SeepInitialize	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	159;"	kind:p	line:159	signature:(void)
+_SeepReadByte	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	160;"	kind:p	line:160	signature:(long addr)
+_SeepReadNextByte	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	161;"	kind:p	line:161	signature:(void)
+_SeepReady	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	162;"	kind:p	line:162	signature:(void)
+_SeepRefreshPage	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	163;"	kind:p	line:163	signature:(long addr)
+_SeepReset	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	164;"	kind:p	line:164	signature:(void)
+_SeepWriteByte	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	165;"	kind:p	line:165	signature:(long addr, uchar value)
+_SeepWriteNextByte	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	166;"	kind:p	line:166	signature:(uchar value)
+_Send232D16	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	43;"	kind:p	line:43	signature:(uint val)
+_Send232D8	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	42;"	kind:p	line:42	signature:(uchar val)
+_Send232H16Val	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	41;"	kind:p	line:41	signature:(uint val)
+_Send232H4	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	39;"	kind:p	line:39	signature:(uchar val)
+_Send232H8	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	40;"	kind:p	line:40	signature:(uchar val)
+_SendString232	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	37;"	kind:p	line:37	signature:(long ptr )
+_SerFlashDisable	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	119;"	kind:p	line:119	signature:(void)
+_SerFlashEnable	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	120;"	kind:p	line:120	signature:(void)
+_SerFlashEraseAll	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	121;"	kind:p	line:121	signature:(void)
+_SerFlashEraseBlock	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	133;"	kind:p	line:133	signature:(long addr)
+_SerFlashErasePage	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	134;"	kind:p	line:134	signature:(long addr)
+_SerFlashGetInfo	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	122;"	kind:p	line:122	signature:(void)
+_SerFlashGetPages	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	123;"	kind:p	line:123	signature:(void)
+_SerFlashGetSize	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	124;"	kind:p	line:124	signature:(void)
+_SerFlashInitialize	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	125;"	kind:p	line:125	signature:(void)
+_SerFlashReadByte	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	126;"	kind:p	line:126	signature:(long addr)
+_SerFlashReadNextByte	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	127;"	kind:p	line:127	signature:(void)
+_SerFlashReady	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	128;"	kind:p	line:128	signature:(void)
+_SerFlashRefreshPage	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	129;"	kind:p	line:129	signature:(long addr)
+_SerFlashReset	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	130;"	kind:p	line:130	signature:(void)
+_SerFlashWriteByte	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	131;"	kind:p	line:131	signature:(long addr, uchar value)
+_SerFlashWriteNextByte	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	132;"	kind:p	line:132	signature:(uchar value)
+_SerialRecv	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	142;"	kind:p	line:142	signature:(uint mask, uint timeout)
+_SerialSend	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	141;"	kind:p	line:141	signature:(uint mask, uchar data)
+_SetBaudRate	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	91;"	kind:p	line:91	signature:(uchar val)
+_SetCalloutBlinkPeriod	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	113;"	kind:p	line:113	signature:(uchar count)
+_SetCalloutGPIOEvent	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	112;"	kind:p	line:112	signature:(uint mask, uint value)
+_SetDataFlashPartitions	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	156;"	kind:p	line:156	signature:(uchar userPages, uchar templates)
+_SetGlobalTimer	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	151;"	kind:p	line:151	signature:(ulong count)
+_SetGlobalTimerWakeup	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	152;"	kind:p	line:152	signature:(uchar count)
+_SetMicDistance	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	92;"	kind:p	line:92	signature:(uchar val)
+_SetOutput	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	24;"	kind:p	line:24	signature:(uint mask, uint value)
+_SetRPBitRate	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	94;"	kind:p	line:94	signature:(uchar val)
+_SetupAudioWakeup	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	99;"	kind:p	line:99	signature:(uchar mode, uchar config, uchar threshLow, uchar threshHigh)
+_SetupCallout	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	111;"	kind:p	line:111	signature:(uchar flags)
+_SetupIOWakeup	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	98;"	kind:p	line:98	signature:(uchar port, uchar bits, uchar states )
+_ShutdownCl	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	118;"	kind:p	line:118	signature:(void)
+_ShutdownWs	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	117;"	kind:p	line:117	signature:(void)
+_SleepIO	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	20;"	kind:d	line:20
+_SpiConfig	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	37;"	kind:p	line:37	signature:(uchar cfg)
+_SpiSelect	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	45;"	kind:p	line:45	signature:(uchar selmask)
+_SpiSend	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	48;"	kind:p	line:48	signature:(uchar dat)
+_SpiXfer	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	47;"	kind:p	line:47	signature:(uchar dat)
+_SwitchToOsc1	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	101;"	kind:p	line:101	signature:(void)
+_SwitchToOsc2	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	102;"	kind:p	line:102	signature:(void)
+_SxTalk	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	67;"	kind:p	line:67	signature:(long speechTable, uint scale)
+_SysBeep	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	95;"	kind:p	line:95	signature:(uchar msecs)
+_SysBeep2	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	96;"	kind:p	line:96	signature:(uchar volume)
+_T2SI	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	105;"	kind:p	line:105	signature:(long, long, uchar, uchar, uchar, PARAMETERPASS *pRes)
+_T2SISD	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	106;"	kind:p	line:106	signature:(long, long, uchar, uchar, uchar, uchar, PARAMETERPASS *pRes)
+_TTone	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	112;"	kind:p	line:112	signature:(uchar toneNumber, uchar toneDur, uchar silDur)
+_TogglePin	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	32;"	kind:p	line:32	signature:(uint mask)
+_Trace	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	13;"	kind:p	line:13	signature:(uchar val)
+_TraceOff	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	85;"	kind:p	line:85	signature:(void)
+_TraceOn	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	84;"	kind:p	line:84	signature:(void)
+_TrainSd	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	56;"	kind:p	line:56	signature:(uchar classes, uchar knob, uchar delta, PARAMETERPASS *pRes)
+_TrainSv	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	63;"	kind:p	line:63	signature:(uchar classes, uchar knob, uchar delta, PARAMETERPASS *pRes)
+_TrainT2SISD	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	108;"	kind:p	line:108	signature:(uchar classes, uchar knob, uchar delta, PARAMETERPASS *pRes)
+_USE_IOCTL	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	55;"	kind:d	line:55
+_Wait10MilliSecs	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	88;"	kind:p	line:88	signature:(uchar ints)
+_Wait232	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	36;"	kind:p	line:36	signature:(void)
+_WaitSecs	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	89;"	kind:p	line:89	signature:(uchar secs)
+_WritePin	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	28;"	kind:p	line:28	signature:(uint mask, uint value)
+_Yellow2Off	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	40;"	kind:d	line:40
+_Yellow2On	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	39;"	kind:d	line:39
+_Yellow2Toggle	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	47;"	kind:d	line:47
+_YellowOff	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	38;"	kind:d	line:38
+_YellowOn	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	37;"	kind:d	line:37
+_YellowToggle	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	46;"	kind:d	line:46
+__DEMO_IO_H	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\demo_io.h	4;"	kind:d	line:4
+__MKCOUNT	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	117;"	kind:d	line:117
+__MKTIMER	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	118;"	kind:d	line:118
+__SMARTVR_H	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	4;"	kind:d	line:4
+__TECHDEFS_H	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	4;"	kind:d	line:4
+__TECHLIB_H	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techlib.h	4;"	kind:d	line:4
+__TECHTYPES_H	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	7;"	kind:d	line:7
+__TECHTYPES_H	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	7;"	kind:d	line:7
+__size_t_defined	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\stddef.h	4;"	kind:d	line:4
+cdata	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	3;"	kind:d	line:3
+class	main.c	38;"	kind:l	line:38
+disk_initialize	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	56;"	kind:d	line:56
+disk_ioctl	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	60;"	kind:d	line:60
+disk_read	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	58;"	kind:d	line:58
+disk_status	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	57;"	kind:d	line:57
+disk_write	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\sys\vm_compat.h	59;"	kind:d	line:59
+error	main.c	28;"	kind:v	line:28
+gsearch_comm_GeneralOpt	F:\Project\ProtoType\recog\GeneralOpt\comm_rscApp_GeneralOpt.h	6;"	kind:x	line:6
+gsearch_comm_GeneralOpt	recog\GeneralOpt\comm_rscApp_GeneralOpt.h	6;"	kind:x	line:6
+gsearch_comm_MainOpt	F:\Project\ProtoType\recog\MainOpt\comm_rscApp_MainOpt.h	6;"	kind:x	line:6
+gsearch_comm_MainOpt	recog\MainOpt\comm_rscApp_MainOpt.h	6;"	kind:x	line:6
+gsearch_comm_MotionOpt	F:\Project\ProtoType\recog\MotionOpt\comm_rscApp_MotionOpt.h	6;"	kind:x	line:6
+gsearch_comm_MotionOpt	recog\MotionOpt\comm_rscApp_MotionOpt.h	6;"	kind:x	line:6
+gsearch_comm_SettingsOpt	F:\Project\ProtoType\recog\SettingsOpt\comm_rscApp_SettingsOpt.h	6;"	kind:x	line:6
+gsearch_comm_SettingsOpt	recog\SettingsOpt\comm_rscApp_SettingsOpt.h	6;"	kind:x	line:6
+gsearch_comm_SmartOpt	F:\Project\ProtoType\recog\SmartOpt\comm_rscApp_SmartOpt.h	6;"	kind:x	line:6
+gsearch_comm_SmartOpt	recog\SmartOpt\comm_rscApp_SmartOpt.h	6;"	kind:x	line:6
+gsearch_trig_MainOpt	F:\Project\ProtoType\recog\MainOpt\trig_rscApp_MainOpt.h	6;"	kind:x	line:6
+gsearch_trig_MainOpt	recog\MainOpt\trig_rscApp_MainOpt.h	6;"	kind:x	line:6
+knob	main.c	17;"	kind:v	line:17
+main	main.c	35;"	kind:f	line:35	signature:(void)
+nn_GeneralOpt	F:\Project\ProtoType\recog\GeneralOpt\comm_rscApp_GeneralOpt.h	9;"	kind:x	line:9
+nn_GeneralOpt	recog\GeneralOpt\comm_rscApp_GeneralOpt.h	9;"	kind:x	line:9
+nn_MainOpt	F:\Project\ProtoType\recog\MainOpt\comm_rscApp_MainOpt.h	9;"	kind:x	line:9
+nn_MainOpt	F:\Project\ProtoType\recog\MainOpt\trig_rscApp_MainOpt.h	9;"	kind:x	line:9
+nn_MainOpt	recog\MainOpt\comm_rscApp_MainOpt.h	9;"	kind:x	line:9
+nn_MainOpt	recog\MainOpt\trig_rscApp_MainOpt.h	9;"	kind:x	line:9
+nn_MotionOpt	F:\Project\ProtoType\recog\MotionOpt\comm_rscApp_MotionOpt.h	9;"	kind:x	line:9
+nn_MotionOpt	recog\MotionOpt\comm_rscApp_MotionOpt.h	9;"	kind:x	line:9
+nn_SettingsOpt	F:\Project\ProtoType\recog\SettingsOpt\comm_rscApp_SettingsOpt.h	9;"	kind:x	line:9
+nn_SettingsOpt	recog\SettingsOpt\comm_rscApp_SettingsOpt.h	9;"	kind:x	line:9
+nn_SmartOpt	F:\Project\ProtoType\recog\SmartOpt\comm_rscApp_SmartOpt.h	9;"	kind:x	line:9
+nn_SmartOpt	recog\SmartOpt\comm_rscApp_SmartOpt.h	9;"	kind:x	line:9
+offsetof	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\stddef.h	16;"	kind:d	line:16
+pp_a	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	19;"	kind:m	line:19	struct:_PARAMETERPASS	access:public
+pp_b	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	20;"	kind:m	line:20	struct:_PARAMETERPASS	access:public
+pp_r0	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	21;"	kind:m	line:21	struct:_PARAMETERPASS	access:public
+pp_r1	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	22;"	kind:m	line:22	struct:_PARAMETERPASS	access:public
+pp_r2	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	23;"	kind:m	line:23	struct:_PARAMETERPASS	access:public
+pp_r3	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	24;"	kind:m	line:24	struct:_PARAMETERPASS	access:public
+pp_r4	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	25;"	kind:m	line:25	struct:_PARAMETERPASS	access:public
+pp_r5	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	26;"	kind:m	line:26	struct:_PARAMETERPASS	access:public
+ptrdiff_t	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\stddef.h	14;"	kind:t	line:14
+results	main.c	13;"	kind:v	line:13
+schar	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	9;"	kind:t	line:9
+schar	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	9;"	kind:t	line:9
+size_t	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\stddef.h	5;"	kind:t	line:5
+sound_table	main.c	14;"	kind:v	line:14
+tryCtr	main.c	27;"	kind:v	line:27
+uchar	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	8;"	kind:t	line:8
+uchar	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	8;"	kind:t	line:8
+uint	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	10;"	kind:t	line:10
+uint	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	10;"	kind:t	line:10
+ulong	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\smartvr.h	11;"	kind:t	line:11
+ulong	C:\Program Files (x86)\VeeaR\SmartVR Toolkit\Toolchain\include\techdefs.h	11;"	kind:t	line:11

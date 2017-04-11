@@ -1,0 +1,26 @@
+[VoiceIDE]
+Version=0x0100
+[Source Files]
+File0=main.c
+[Header Files]
+File0=Qs5\SOUNDS.H
+File1=recog\GeneralOpt\comm_rscApp_GeneralOpt.h
+File2=recog\MainOpt\comm_rscApp_MainOpt.h
+File3=recog\MainOpt\trig_rscApp_MainOpt.h
+File4=recog\MotionOpt\comm_rscApp_MotionOpt.h
+File5=recog\SettingsOpt\comm_rscApp_SettingsOpt.h
+File6=recog\SmartOpt\comm_rscApp_SmartOpt.h
+File7=incAndDef.h
+[Resource Files]
+File0=recog\GeneralOpt\comm_rscGram_GeneralOpt.mco
+File1=recog\GeneralOpt\rscNet_GeneralOpt.mco
+File2=recog\MainOpt\comm_rscGram_MainOpt.mco
+File3=recog\MainOpt\rscNet_MainOpt.mco
+File4=recog\MainOpt\trig_rscGram_MainOpt.mco
+File5=recog\MotionOpt\comm_rscGram_MotionOpt.mco
+File6=recog\MotionOpt\rscNet_MotionOpt.mco
+File7=recog\SettingsOpt\comm_rscGram_SettingsOpt.mco
+File8=recog\SettingsOpt\rscNet_SettingsOpt.mco
+File9=recog\SmartOpt\comm_rscGram_SmartOpt.mco
+File10=recog\SmartOpt\rscNet_SmartOpt.mco
+File11=Qs5\SOUNDS.MCO
